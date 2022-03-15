@@ -10,5 +10,8 @@ body{
 }
 
 p{
-    color: #565cd8;
+    color: #dedee0;
+}
+h1, h2{
+    color:azure;
 }
